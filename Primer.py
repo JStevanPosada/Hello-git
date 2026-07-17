@@ -1,4 +1,4 @@
-print("que tal esta es la versiion nueva")
+print("que tal esta es la versiion mas actualizada")
 
 
 
